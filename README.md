@@ -8,7 +8,7 @@ The data set is of the sizw 516 records. These records consist data that is reco
 
 ## Aim
 
-The main agenda is to develop a prediction model for prediction of the loan approval status from the given data.
+The main agenda is to develop a prediction model for the prediction of the loan approval status from the given data.
 
 ## Built With
 
