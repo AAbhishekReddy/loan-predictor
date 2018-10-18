@@ -4,7 +4,7 @@ It is a project that is being developed for a competition that is being hosted i
 
 ## About the data
 
-The data set is of the sizw 516 records. These records consist data that is recorded over time regarding the loan approval status of a bank.
+The data set is of the size 516 records. These records consist data that is recorded over time regarding the loan approval status of a bank.
 
 ## Aim
 
